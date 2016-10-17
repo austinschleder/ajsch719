@@ -1,0 +1,4 @@
+#!/Users/ajs/Workspace/python/ajsch719/ajs_venv/bin/python
+
+import nflgame.update_players
+nflgame.update_players.run()
